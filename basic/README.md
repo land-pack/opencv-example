@@ -9,3 +9,8 @@ Gui Features in OpenCV >>
 *3 Optionally, you will learn how to display images with Matplotlib
 
 
+
+Q/A
+=============
+
+Create a file ~/.matplotlib/matplotlibrc there and add the following code: backend: TkAgg
