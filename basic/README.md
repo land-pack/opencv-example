@@ -18,6 +18,16 @@ Getting Started with Videos
 *3 You will learn these functions: cv2.VideoCapture(), cv2.VideoWriter()
 
 
+Drawing Functions in OpenCV
+=====================
+
+*1 Learn to draw different geometric shapes with OpenCV
+*2 You will learn these functions: cv2.line(), cv2.circle(), cv2.rectangle(),
+   cv2.ellipse(), cv2.putText() etc.
+
+
+
+
 
 Q/A
 =============
