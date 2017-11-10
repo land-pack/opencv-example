@@ -26,6 +26,12 @@ Drawing Functions in OpenCV
    cv2.ellipse(), cv2.putText() etc.
 
 
+Mouse as a Paint-Brush
+====================
+
+*1 Learn to handle mouse events in OpenCV
+*2 You will learn these functions: cv2.setMouseCallback()
+
 
 
 
